@@ -24,3 +24,10 @@
 10. Selezionate il vostro account appena creato, attivate 'Use as default'/'Usa come predefinito?' e cliccate OK
 
 Prism scaricherà Minecraft ed avvierà il gioco. Una volta aperto, trovate il server già pronto.
+
+## Aggiornare le mod
+
+1. Cliccate [qui](https://github.com/retards-server/RetardsCreative/releases/latest/download/RetardsCreative.zip) per scaricare l'ultima versione del modpack
+2. Aprite Prism, fate click destro sull'istanza del server, poi 'Edit'/'Modifica' e andate su 'Curseforge'
+3. Cliccate su 'Update from file'/'Aggiorna da file' e selezionate la zip appena scaricata
+4. Lasciatelo cucinare :)
