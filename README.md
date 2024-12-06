@@ -13,7 +13,7 @@ Se non avete Prism Launcher o non avete mai scaricato il modpack del server, ecc
 1. Scaricate e installate Prism Launcher da [qui](https://prismlauncher.org/download/).
 2. Aprire Prism Launcher. Al primo avvio vi chiederà di impostare delle opzioni: configuratele come meglio volete.
 3. Come ultimo step, Prism vi chiederà di accedere al vostro account Microsoft. Se avete pagato Minecraft e ne avete uno, eseguite pure il login. Altrimenti, se non avete un account Microsoft e volete craccarlo:
-	* Chiudete Prism.
+	* Continuate senza aggiungere account, POI chiudete Prism.
 	* Aprite un terminale (su Windows, basta premere `Win+R`, scrivere `cmd` e premere `Invio`; su Mac, aprite la schermata delle applicazioni, cercate ed aprite 'Terminale').
 	* Incollate uno di questi comandi, premete `Invio` e chiudete il terminale:
 		- Windows: `echo {"accounts": [{"entitlement": {"canPlayMinecraft": true,"ownsMinecraft": true},"type": "MSA"}],"formatVersion": 3} > %appdata%/PrismLauncher/accounts.json`
