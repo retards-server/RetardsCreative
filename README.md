@@ -51,12 +51,30 @@ I Resource Pack e gli Shader richiedono altri passi per configurarli.
 
 Le mod possono aggiungere funzionalità o velocizzare il vostro client. Ce ne sono davvero molte, ma ecco un paio di consigli:
 
+#### Ottimizzazione
+
+Per velocizzare e migliorare il vostro client, avvicinando (e superando) OptiFine.
+
 * **Embeddium**: indispensabile, rende l'intero gioco più veloce e ottimizzato. Fork di Sodium per Forge.
 * **Oculus**: permette di scaricare gli shaders. Richiede _Embeddium_. Fork di Iris per Forge.
-* **BadOptimizations**, **CullLeaves**, **DynamicFPS**, **Embeddium Extra**, **Embeddium++**, **EntityCulling**, **FerriteCore**, **ImmediatelyFast**...: altre mod di ottimizzazione che rendono Minecraft più veloce.
+* **Embeddium Extra**: port di Sodium Extra per Forge.
+* **Entity Culling**: impedisce il rendering delle entità che non sono visibili.
+* **Ferrite Core**: ottimizza l'uso di memoria.
+* **ImmediatelyFast**, **ModernFix**, **BadOptimizations**: aggiungono diverse ottimizzazioni generali.
+* **Dynamic FPS**: abbassa gli FPS mentre non usate Minecraft.
+* **Memory Leak Fix**: previene i leak di memoria.
+* **Fastload**: velocizza il modo in cui i mondi vengono caricati.
+* **Distant Horizons**: processa i blocchi fuori dalla render distance per poter vedere a grandi distanze. Non ottimale per i PC più vecchi (ma assolutamente da provare).
+
+#### Utilità
+
 * **WorldEdit CUI**: permettte visualizzare la vostra selezione di WorldEdit. Utilissimo se usate la Wand nel server.
 * **Xaero's Minimap**: aggiunge una minimappa in alto a sinistra (configurabile) che mostra anche le vostre coordinate.
 * **Camera Overhaul**: aggiunge animazioni carine alla visuale del giocatore.
+* **Jade**: aggiunge informazioni riguardo all'elemento che state guardando.
+* **BetterF3**: semplifica il menù F3.
+* **Dynamic Crosshair**: rende il puntatore dinamico.
+* **Just Zoom**: permette di zoomare a grandi distanze.
 
 Potete scaricare altre mod a vostro piacimento. Un buon posto per trovarle è [Modrinth](modrinth.com/mods), a patto che quelle che trovate siano:
 - Per **Forge**.
